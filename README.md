@@ -1,7 +1,6 @@
 # vagrant-lamp
 
-A Simple Vagrantfile &amp; a basic Bash script to setup LAMP stack (PHP 5)
-
+A Simple Vagrantfile & Bash Script to setup LAMP stack (PHP 5)
 ### What's Included ?
 
 config.sh shell script will do the following:
